@@ -3,9 +3,9 @@
 #include <stdio.h>
 #include <string.h>
 
-
 using namespace std;
 
+// Palindrom function work with only number. 
 void isPalindrome(int num)
 {
  	int tmp, final = 0;
